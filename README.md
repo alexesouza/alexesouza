@@ -2,7 +2,7 @@
 
 ## Meu nome é Alex! ##
 
- Trabalho como corretor de imóveis, mas estou mudando de profissão!
+ Trabalho como corretor de imóveis, mas estou em transição de carreira!
 
 # Tecnologias que estou aprendendo #
 
